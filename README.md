@@ -1,2 +1,3 @@
-:mortar_board: Universität Bremen, Bremen, Germany\
-:mortar_board: Universidad de Chile, Santiago, Chile
+:mortar_board: Universität Bremen, Bremen, Germany
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanParraguez&layout=compact&theme=dark&custom_title=Repositories%20Languages)](https://github.com/anuraghazra/github-readme-stats)
