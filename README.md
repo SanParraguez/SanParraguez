@@ -20,7 +20,7 @@
     <img 
          height="170px"
          align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanParraguez&langs_count=8&layout=compact&card_width=250&theme=react&hide_border=true&border_radius=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanParraguez&langs_count=8&layout=compact&card_width=240&theme=react&hide_border=true&border_radius=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" 
          alt="SanParraguez's Top Languages" />
   </a>
 </div>
