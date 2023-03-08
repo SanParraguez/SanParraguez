@@ -1,14 +1,28 @@
 :mortar_board: Universität Bremen, Bremen, Germany
 
+<h3> Relevant repositories </h3>
+
+
+
 <!-- GITHUB STATISTICS -->
 <h3> Github Stats </h3>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="SanParraguez's Github Stats" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SanParraguez&show_icons=true&include_all_commits=false&count_private=true&line_height=21&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="168px"/></a>
+    <img
+         height="170px"
+         align="center" 
+         src="https://github-readme-stats.vercel.app/api/?username=SanParraguez&show_icons=true&include_all_commits=false&count_private=true&line_height=23&theme=react&hide_border=true&hide_rank=false&border_radius=9&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+         alt="SanParraguez's Github Stats" />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="SanParraguez's Top Languages" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SanParraguez&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="168px"/></a>
+    <img 
+         height="170px"
+         align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanParraguez&langs_count=8&layout=compact&card_width=290&theme=react&hide_border=true&border_radius=6&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" 
+         alt="SanParraguez's Top Languages" />
+  </a>
 </div>
 
 <!-- CONTACT BADGES -->
