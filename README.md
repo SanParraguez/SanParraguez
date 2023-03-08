@@ -2,12 +2,17 @@
 
 <h3> Relevant repositories </h3>
 
-
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <div align="center">
+    <a href="https://github.com/SanParraguez/kintunwenu"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanParraguez&repo=kintunwenu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="kintunwenu"></a>
+    <a href="https://github.com/SanParraguez/smoothn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanParraguez&repo=smoothn&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/SanParraguez/latex-templates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SanParraguez&repo=latex-templates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+  </div>
 
 <!-- GITHUB STATISTICS -->
 <h3> Github Stats </h3>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- Stats cards - https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
