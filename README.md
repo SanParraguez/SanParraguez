@@ -6,7 +6,7 @@ Hello there!
 📚 &ensp; I'm currently doing a PhD in environmental physics, studying methane emissions <br>
 🏰 &ensp; Based at the University of Bremen in Germany <br>
 🌐 &ensp; I work at the Laboratory for Modeling and Observation of the Earth System (LAMOS) <br>
-🛰️ &ensp; Using remote sensing to look at the atmosphere's composition and inverse modeling emissions of trace gases <br>
+🛰️ &ensp; Using remote sensing to look at the atmosphere's composition and inverse model emissions of trace gases <br>
 </p>
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
